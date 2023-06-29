@@ -29,15 +29,16 @@ Here's a general overview of how you can approach this challenge:
 ### Screenshot
 
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click here to view my solution](https://kienidarling.github.io/Qr-code/)
 
 ## My process
 To build a QR code using HTML and CSS, I followed these  processeses.
 -  i created a container element to hold the QR code and other elements.
--  I used  a <di> element for the Qr image and  content.
+-  I used  a <div> element for the Qr image and  content.
+-  i created a remote repository.
+-  I got on my command line  and implemented my actions
 
 ### Built with
 
