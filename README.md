@@ -58,9 +58,9 @@ To build a QR code using HTML and CSS, I followed these  processeses.
 
 ## Author
 
-- Website - [hashnode](https://www.your-site.com)
+- Website - [hashnode](https://hashnode.com/@kienidarling)
 - Frontend Mentor - [@kienidarling](https://www.frontendmentor.io/profile/Kienidarling)
-- Twitter - [@kienidarling](https://www.twitter.com/kienidarling)
+- Twitter - [@kienidarling](https://twitter.com/kienidarling)
 
 
 
